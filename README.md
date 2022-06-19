@@ -71,8 +71,10 @@ const pranoy = {
 ---
 
 ### :fire: My Stats :
-![Pranoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=developersview&show_icons=true&theme=dark)
+![Pranoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=developersview&show_icons=true&theme=merko)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=developersview&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Pranoy's github activity graph](https://activity-graph.herokuapp.com/graph?username=developersview&theme=rogue)](https://github.com/developersview/github-readme-activity-graph)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=developersview&theme=merko)](https://git.io/streak-stats)
