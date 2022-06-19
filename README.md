@@ -75,6 +75,4 @@ const pranoy = {
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=developersview&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Pranoy's github activity graph](https://activity-graph.herokuapp.com/graph?username=developersview&theme=rogue)](https://github.com/developersview/github-readme-activity-graph)
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=developersview&theme=merko)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=developersview&)](https://git.io/streak-stats)
