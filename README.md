@@ -71,6 +71,6 @@ const pranoy = {
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=developersview&theme=merko)](https://git.io/streak-stats)
+[![Pranoy’s github stats](https://github-readme-stats.vercel.app/api?username=developersview)](https://github.com/developersview)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=developersview&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
