@@ -21,17 +21,17 @@ npx pranoych
 const pranoy = {
     pronouns: "He" | "Him",
     code: ["Java", "Javascript", "Python"],
-    askMeAbout: ["web dev", "tech", "app dev", "photography"],
+    askMeAbout: ["web dev", "tech", "app dev", "chess", "science"],
     technologies: {
         backEnd: {
         //still learning
             js: ["Node", "Express"],
         },
-        devOps: ["Azure", "Docker🐳", "Jenkins"],
-        databases: ["mongo", "MySql", "SQL Server"],
+        devOps: ["Azure", "Jenkins"],
+        databases: ["MySql", "SQL Server", "mongo"],
         misc: ["Logic App", "Power App", "Power Automate"]
     },
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
+    architecture: ["Single page applications", "Serverless Architecture", "Progressive web applications"],
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
