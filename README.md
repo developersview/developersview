@@ -21,7 +21,7 @@ npx pranoych
 const pranoy = {
     pronouns: "He" | "Him",
     code: ["Java", "Javascript", "Python"],
-    askMeAbout: ["web dev", "tech", "app dev", "chess", "science"],
+    askMeAbout: ["web dev", "tech", "chess", "science"],
     technologies: {
         backEnd: {
         //still learning
