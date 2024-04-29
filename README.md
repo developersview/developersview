@@ -1,5 +1,5 @@
 <h2>Hi, I am Pranoy Chakraborty</h2>
-<p><em>Software Engineer from India </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Software Engineer | Data Analyst | MBA Aspirant </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
   <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 </em></p>
 
