@@ -21,11 +21,11 @@ npx pranoych
 const pranoy = {
     pronouns: "He" | "Him",
     code: ["Java", "Javascript", "Python"],
-    askMeAbout: ["web dev", "tech", "chess", "science"],
+    askMeAbout: ["data analytics", "tech", "chess", "science"],
     technologies: {
         backEnd: {
         //still learning
-            js: ["Node", "React", "Express"],
+            js: ["Node", "React"],
         },
         devOps: ["Azure", "Jenkins"],
         databases: ["MySql", "SQL Server", "mongo"],
